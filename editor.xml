@@ -1,0 +1,7 @@
+<application>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="14" />
+    <option name="LINE_SPACING" value="1.1" />
+    <option name="SECONDARY_FONT_FAMILY" value="Microsoft JhengHei UI" />
+  </component>
+</application>

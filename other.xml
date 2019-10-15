@@ -1,0 +1,195 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="ImportConfiguration">
+    <option name="VENDOR" />
+    <option name="RELEASE_TAG" />
+    <option name="LOG_MESSAGE" />
+    <option name="CHECKOUT_AFTER_IMPORT" value="true" />
+    <option name="KEYWORD_SUBSTITUTION_WRAPPERS" value="" />
+    <option name="MAKE_NEW_FILES_READ_ONLY" value="false" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="D:/Program Files/nodejs/node.exe">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="D:/software/nodejs/node.exe">
+      <version-cache version="10.16.0" last-modified="1559051796000" />
+    </local-interpreter>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Microsoft YaHei" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="BuildView.Splitter.Proportion" value="0.15183572" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.67105263" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Default.SavedEditorTheme" value="_@user_Default" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.CurrentTab" value="Includes" />
+    <property name="FileTemplates.SelectedTemplate" value="ActionScript File Header" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.124610595" />
+    <property name="FrameworksFinderRecursivePanel[1]" value="0.14245014" />
+    <property name="FrameworksFinderRecursivePanel[2]" value="0.16625103" />
+    <property name="FrameworksFinderRecursivePanel[3]" value="0.1996008" />
+    <property name="INTENTION_FILTER_HISTORY" value="injec" />
+    <property name="InstalledPluginsSearchHistory" value="sugges&#10;lombok&#10;prox&#10;pro&#10;User Secure Connection" />
+    <property name="JUnit.Splitter.Proportion" value="0.13876788" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="KEYMAP" value="extend&#10;close&#10;explo&#10;expl&#10;format" />
+    <property name="LAST_INJECTED_LANGUAGE" value="RegExp" />
+    <property name="LOG_FILTER_HISTORY" value="" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LiveContextsPanel[0]" value="0.12698413" />
+    <property name="LiveContextsPanel[1]" value="0.14534883" />
+    <property name="LiveContextsPanel[2]" value="0.17021276" />
+    <property name="MarketplacePluginsSearchHistory" value="lombok&#10;lombo&#10;lom&#10;lombox&#10;lomb" />
+    <property name="MavenHelper.lastRadioButton" value="tree" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PLUGIN_FILTER" value="nodejs&#10;vue&#10;scala&#10;sca&#10;myba" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="RESTClient.httpMethod" value="GET&#10;POST&#10;PUT&#10;PATCH&#10;DELETE&#10;HEAD&#10;OPTIONS" />
+    <property name="SearchEveryWhereHistory" value="login.js&#10;（" />
+    <property name="SettingsSearchHistory" value="sugges&#10;maven&#10;tab&#10;http&#10;proxy" />
+    <property name="SplitFileEditor.Proportion" value="0.5705932" />
+    <property name="SpringBeansModulesPanel[0]" value="0.124610595" />
+    <property name="SpringBeansModulesPanel[1]" value="0.14245014" />
+    <property name="SpringBeansModulesPanel[2]" value="0.24896266" />
+    <property name="SpringBeansModulesPanel[3]" value="0.22123894" />
+    <property name="SpringMvcModulesPanel[0]" value="0.124610595" />
+    <property name="SpringMvcModulesPanel[1]" value="0.14245014" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="codota_token" value="faim+JDr8/kGS6TKMeufj1Hcv+XcopO9oqpu3crmltj3Byq+W2ahlxWTzUhcSTNWhDsexCzWngHD5KkxDOsi9ZGlSz1JESy9" />
+    <property name="com.intellij.database.view.ui.DeleteDialog.previewExpanded" value="true" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="161" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="com.intellij.remoteServer.impl.runtime.ui.ServersToolWindowContent:com.intellij.remoteServer.impl.runtime.ui.DefaultRemoteServersViewContribution.0" value="300" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="dir.diff.panel.divider.location" value="81" />
+    <property name="dir.diff.space.button.info" value="1" />
+    <property name="evlsprt.171" value="15d81d7ec4d" />
+    <property name="evlsprt.173" value="162d627c5d6" />
+    <property name="evlsprt2.171" value="15efe646a30" />
+    <property name="evlsprt2.173" value="1628e1fbf61" />
+    <property name="evlsprt3.171" value="19" />
+    <property name="evlsprt3.172" value="11" />
+    <property name="evlsprt3.173" value="14" />
+    <property name="evlsprt3.182" value="12" />
+    <property name="evlsprt3.192" value="16" />
+    <property name="export.settings.path" value="C:\Users\Administrator\Desktop\settings.jar" />
+    <property name="file.chooser.recent.files" value="E:/apache-tomcat-7.0.64&#10;D:/apache-tomcat-7.0.64&#10;C:/Program Files/Java/jdk1.8.0_131&#10;D:/apache-maven-3.3.3/conf/settings.xml&#10;D:/apache-maven-3.3.3&#10;E:/zzjz_work/二期改造/svn/cms/03 source/01 Server/branch/20160801/cms&#10;E:/zzjz_work/DeepInsight/二期改造/预XK2019015/70.源代码/smc-vue-git&#10;D:/apache-tomcat-7.0.64/webapps/cas&#10;E:/日报系统/03 source/01 Server/rbgl&#10;E:/zzjz_work/DeepInsight/统一权限管理/03 source/01 Server/branch/wz_branch&#10;E:/zzjz_work/DeepInsight/统一权限管理/03 source/01 Server/tyqxgl&#10;E:/zzjz_work/DeepInsight/二期改造/预XK2019015/70.源代码/zzjg&#10;D:/zzjz_work/Projects/springboot-shiro-jwt-demo&#10;D:/用户目录/下载/Compressed/spring-boot-demo-master&#10;E:/zzjz_work/DeepInsight/中电建/03 source/02 Client/largeScreen&#10;E:/zzjz_work/DeepInsight/统一权限管理/git版/tyqxgl&#10;E:/zzjz_work/DeepInsight/12j安全大数据态势/03 source/02 Client/nsaweb&#10;E:/zzjz_work/DeepInsight/12j安全大数据态势/03 source/02 Client&#10;E:/zzjz_work/DeepInsight/中电建/03 source/git/zzdj&#10;E:/zzjz_work/DeepInsight/二期改造/预XK2019015/70.源代码/git/zzjg&#10;E:/zzjz_work/DeepInsight/12j安全大数据态势/03 source/git/zzts&#10;E:/zzjz_work/二期改造/svn/smc/03 source/01 Server/branch/location_20160516/smc&#10;E:/zzjz_work/二期改造/svn/smc-sw/03 source/01 Server/trunk/smc&#10;D:/用户目录/下载/Compressed/cas客户端war包和project源代码/casclient&#10;D:/zzjz_work/Projects/02onSpark2.0.3_0.6&#10;D:/迅雷下载/cas-server-4.0.0/cas-server-webapp&#10;D:/迅雷下载/cas-server-4.0.0&#10;D:/zzjz_work/Projects/CAS&#10;D:/zzjz_work/bookSearch/MyBooksearch/server/app.js&#10;D:/zzjz_work/bookSearch/MyBooksearch/server" />
+    <property name="file.gist.reindex.count" value="132574" />
+    <property name="fileTypeChangedCounter" value="35" />
+    <property name="go.last.update.timestamp" value="1555979245993" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.3.41-release-IJ2019.2-1" />
+    <property name="java.module.default.source.root" value="src" />
+    <property name="javaee.appServer.lastUsedIntegration" value="Tomcat Server" />
+    <property name="javaee.appServer.lastUsedServer" value="Tomcat 7.0.64" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="js.overrides.completion" value="true" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="js.var.names.completion" value="false" />
+    <property name="js.var.names.completion.kind" value="NAMES_ONLY" />
+    <property name="kotlin.plugin.releaseDate" value="1.3.41-release-IJ2019.2-1:2019-07-03" />
+    <property name="last.imported.location" value="E:/zzjz_work/zzoa" />
+    <property name="lastTip" value="3" />
+    <property name="org.intellij.images.editor.actions.BackgroundImageDialog#recent" value="" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1570678775043" />
+    <property name="plugins.preselection.path" value="E:/迅雷下载" />
+    <property name="project.wizard.group" value="SpringInitializr" />
+    <property name="project.wizard.template" value="Spring Initializr" />
+    <property name="quick.doc.font.size" value="SMALL" />
+    <property name="scala.last.updated" value="1569479640212" />
+    <property name="selected.color.option.type" value="TAPESTRY_COMPONENT_PARAMATER" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Tabs and Indents" />
+    <property name="spring.initializr.service.url.history" value="" />
+    <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.5.2" />
+    <property name="typescript.show.auto.import" value="true" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://192.168.11.251/svn/algorithm/02onSpark2.0.3_0.6" />
+        <option value="https://192.168.11.251/svn/cmgr-sys/trunk/zzjz-deepinsight-algorithm" />
+        <option value="https://192.168.1.241/svn/OA 系统/03 source/01 Server/zzoa" />
+        <option value="https://192.168.1.128/svn/zzTest/" />
+        <option value="http://192.168.1.178/svn/zzoa/" />
+        <option value="https://192.168.1.225/svn/zzjz/trunk/zzoa" />
+        <option value="http://code.taobao.org/svn/quartz/" />
+        <option value="http://192.168.88.85/svn/OPERATIONAL_INTEGRATION/DnionPlatform" />
+        <option value="http://172.16.19.3/svn/research/INTEGRATION_PRODUCT" />
+        <option value="http://172.16.19.3/svn/research/INTEGRATION_PRODUCT/DnionPlatform/DnionJob/trunk/DnionPlatformRestFul" />
+        <option value="http://172.16.19.3/svn/research/INTEGRATION_PRODUCT/DnionPlatform/src/trunk" />
+        <option value="http://172.16.19.3/svn/research/INTEGRATION_PRODUCT/SoftWareManager" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://192.168.11.251/svn/algorithm/02onSpark2.0.3_0.6" />
+        <option value="https://192.168.11.251/svn/cmgr-sys/trunk/zzjz-deepinsight-algorithm" />
+        <option value="http://192.168.11.251/svn" />
+        <option value="https://192.168.1.241/svn/OA 系统/03 source/01 Server/zzoa" />
+        <option value="https://192.168.1.128/svn/zzTest/" />
+        <option value="http://192.168.1.178/svn/zzoa/" />
+        <option value="https://192.168.1.225/svn/zzjz/trunk/zzoa" />
+        <option value="http://code.taobao.org/svn/quartz/" />
+        <option value="http://192.168.88.85/svn/OPERATIONAL_INTEGRATION/DnionPlatform" />
+        <option value="http://172.16.19.3/svn/research/INTEGRATION_PRODUCT/DnionPlatform/src/trunk" />
+        <option value="http://172.16.19.3/svn/research/INTEGRATION_PRODUCT" />
+        <option value="http://172.16.19.3/svn/research/INTEGRATION_PRODUCT/DnionPlatform/DnionJob/trunk/DnionPlatformRestFul" />
+        <option value="http://172.16.19.3/svn/research/INTEGRATION_PRODUCT/DnionPlatform/" />
+        <option value="http://172.16.19.3/svn/research/INTEGRATION_PRODUCT/SoftWareManager" />
+      </list>
+    </option>
+    <option name="mySvnCommandLine" value="C:\Program Files\TortoiseSVN\bin\svn.exe" />
+  </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="https://192.168.11.251/svn/统一权限管理/03 source/01 Server/tyqxgl">
+          <value>
+            <set>
+              <option value="E:\zzjz_work\DeepInsight\统一权限管理\03 source\01 Server\tyqxgl" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
