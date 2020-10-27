@@ -1,0 +1,16 @@
+<templateSet group="MyGroup">
+  <template name="conso" value="console.log($attr$);" description="打印console.log()" toReformat="false" toShortenFQNames="true">
+    <variable name="attr" expression="anonymousSuper()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="lei" value="/**&#10; * @ClassName: &#10; * @Description: &#10; * @author 房桂堂&#10; * @date $date$ $time$&#10; */" description="类注释" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

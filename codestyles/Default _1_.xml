@@ -1,0 +1,14 @@
+<code_scheme name="Default (1)" version="173">
+  <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="20" />
+  <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="10" />
+  <JavaCodeStyleSettings>
+    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="20" />
+    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="10" />
+  </JavaCodeStyleSettings>
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+</code_scheme>
