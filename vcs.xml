@@ -182,6 +182,10 @@
           <option name="url" value="https://github.com/consulthys/node-red-contrib-logstash.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/gui66497/LeetCode_Learn.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\fgt\projects" />
