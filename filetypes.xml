@@ -1,9 +1,18 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="为资产表添加网段这个字段 update_by_query语句" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="b" type="PLAIN_TEXT" />
+      <mapping pattern="jssecacerts" type="PLAIN_TEXT" />
+      <mapping pattern="部署步骤" type="PLAIN_TEXT" />
+      <mapping pattern="command" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern="ss" type="PLAIN_TEXT" />
+      <mapping pattern="vuln_xml_12j的script_field" type="PLAIN_TEXT" />
+      <mapping ext="conf_balance" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
